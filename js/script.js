@@ -1,5 +1,5 @@
 function sendMessage(){
-  var msg = document.getElementById('entryinput');
+  var msg = document.getElementById('Aidan Lish:'+'entryinput');
   alert(msg);
 }
 
