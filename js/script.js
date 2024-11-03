@@ -1,5 +1,5 @@
 function sendMessage(){
-  alert('Aidan Lish:'+ msg.value);
+  alert('Aidan Lish: '+ msg.value);
 }
 
 var alertButton = document.getElementById('entrybutton');
